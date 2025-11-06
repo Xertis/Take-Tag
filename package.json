@@ -1,0 +1,10 @@
+{
+	"id": "taketag",
+	"title": "Take&Tag!",
+	"version": "0.1.0",
+	"author": "Xertis",
+	"description": "Добавляет граффити",
+	"dependencies": [
+		"!not_utils"
+	]
+}

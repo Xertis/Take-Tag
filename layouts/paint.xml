@@ -1,0 +1,8 @@
+<panel size="500,600">
+	<canvas id="canvas" size="500,500"></canvas>
+	<select id="filters" pos="0,0" width="200" onselect="selectColor" />
+
+	<trackbar id="track" consumer="setSize" size="500,30" value='10' min='1' max='100' />
+	<button id="button" onclick="close()">Done</button>
+</panel>
+ы
